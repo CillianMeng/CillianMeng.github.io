@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
+    <title>早上好，夜之城！</title>
     <url>/2024/08/08/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <content><![CDATA[<p>高中学习信息竞赛时，我经常会为了搞明白某个算法而在网络上搜索，各路“大神”深入浅出的博客文章给我留下了深刻的印象，自那时起，我便深以为，身为一名搞计算机相关的人，拥有一个自己建立、维护的博客网站是很有必要的。所以很自然地，在到北航上大学之后我便生出了想要建一个自己的博客小站的想法。但因为本人患有拖延症，每次有点兴致又感觉看着教程一个一个调有点无聊，就又放弃了。<br>那怎么现在又下定决心把博客建下来了呢？<br>因为真的太无语了。。。<br>学习什么的不想学啦。。。<br>打游戏什么的好没意思啦。。。<br>所以就下定决心把我的小站建好了，希望这次不是半途而废而是可以持续更新吧。</p>
+<p>好的，书归正题，整篇文章正如标题，可以看作是我对我的小站正式跨入新阶段，以及对每一位愿意打开我的简陋小站访问者，也就是你，的一个问好。你好！欢迎你来到我的小站！如果你觉得我的文章或是让你学到了新的知识，或是让你驻足思考一段时间，或是让你体会到一点快乐，那就再好不过。本站会凭本人兴趣不定时随缘更新包括但不限于</p>
+<ul>
+<li><p>学习笔记</p>
+</li>
+<li><p>对某些事情的感慨、看法和思考</p>
+</li>
+<li><p>和某些朋友进行激烈辩论之后生发出来的感想</p>
+</li>
+</ul>
+<p>同时，由于本人成分的复杂性和逆天性，本站某些文章可能在不经意间出现诸多政治不正确行为，包括但不限于</p>
+<ul>
+<li><p>男女权问题</p>
+</li>
+<li><p>各种歧视问题</p>
+</li>
+<li><p>屁股歪问题</p>
+</li>
+</ul>
+<p>如各位对此感到不舒服，请及时在文章底部告知，本人会送上真挚的道歉并对文章作修改。</p>
 ]]></content>
   </entry>
 </search>
